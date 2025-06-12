@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou Kauão Henrique!</h1>
+<h1 align="center">👋 Olá, eu sou Kauã Henrique!</h1>
 
 <p align="center">
   🎓 Estudante de Ciência da Computação | 📊 Foco em Dados e Back-End | 🚀 Explorador do Conhecimento
