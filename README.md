@@ -1,17 +1,17 @@
 <h1 align="center">👋 Olá, eu sou Kauã Henrique!</h1>
 
 <p align="center">
-  🎓 Estudante de Ciência da Computação | 📊 Foco em Dados e Back-End | 🚀 Explorador do Conhecimento
+  🎓 Estudante de Ciência da Computação 6° período| estou me especializando em Back-End | Java Spring Boot | Python | API's | PostgreSQL 
 </p>
 
 ---
 
 ## 🧠 Sobre mim
 
-- 👨‍🎓 Tenho 21 anos e sou estudante de **Ciência da Computação**
-- 🔍 Apaixonado por **Análise de Dados**, **Ciência de Dados**, **Estatística** e **Desenvolvimento Back-End**
+- 👨‍🎓 Tenho 21 anos e sou estudante de **Ciência da Computação com fome por aprendizado**
+- 🔍 Apaixonado *Desenvolvimento Back-End**
 - 💡 Estou sempre em busca de novos aprendizados e desafios práticos
-- 📚 Atualmente me aprofundo em Python, SQL, estatística e estrutura de dados
+- 📚 Atualmente me aprofundo Back-End 
 
 ---
 
