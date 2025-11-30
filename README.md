@@ -25,31 +25,8 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaua19&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaua19&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🚀 Áreas de Interesse
-
-- 📊 **Análise e Visualização de Dados**
-- 📈 **Modelagem Estatística e Probabilística**
-- 🧠 **Machine Learning aplicado ao mundo real**
-- 🔧 **Desenvolvimento Back-End com foco em performance e escalabilidade**
-
----
-
 ## 📬 Contato
 
 - ✉️ Email: kaua83707@gmail.com
-- 💼 LinkedIn: [www.linkedin.com/in/kauã-henrique-14090a322](https://www.linkedin.com/in/kauã-henrique-14090a322)
+- 💼 LinkedIn: https://www.linkedin.com/in/kauã-henrique-14090a322
 
----
-
-<p align="center">
-  📌 "Transformar dados em decisões e ideias em soluções"
-</p>
