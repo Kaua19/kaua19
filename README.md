@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou Kauã Henrique!</h1>
 
 <p align="center">
-  🎓 Estudante de Ciência da Computação 6° período| estou me especializando em Back-End | Java Spring Boot | Python | API's | PostgreSQL 
+  Ciência da Computação 7° período| Java 17 | Spring Boot | API REST | PostgreSQL 
 </p>
 
 ---
