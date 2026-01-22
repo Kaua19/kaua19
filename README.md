@@ -1,29 +1,72 @@
-<h1 align="center">👋 Olá, eu sou Kauã Henrique!</h1>
+# 👋 Olá, eu sou o Kauã Henrique
 
-<p align="center">
-  Ciência da Computação 7° período| Java 17 | Spring Boot | API REST | PostgreSQL | MySQL
-</p>
+🎓 Estudante de Ciência da Computação (7º período)  
+💻 Desenvolvedor Java Júnior | Back-End  
+📍 Uberlândia - MG  
 
 ---
 
-## 🧠 Sobre mim
+## 🚀 Sobre mim
 
-- 👨‍🎓 Tenho 21 anos eu sou apaixonado em engenharia de software**
-- Objeto: me tornar referência em arquitetura de software,  Java e Inteligência Artificial 🚀
+Sou estudante de Ciência da Computação com foco em **Desenvolvimento Back-End em Java**.
+Tenho experiência prática com **Java, Programação Orientada a Objetos, Spring Boot e PostgreSQL**,
+desenvolvendo projetos pessoais voltados para lógica de negócio, APIs e aprendizado contínuo.
+
+Gosto de aprender na prática, errar, corrigir e evoluir.
+Tenho interesse em Engenharia de Software, Back-End e Ciência de Dados.
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-<div style="display: flex; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/
+- **Linguagens:** Java | Python (básico) | SQL  
+- **Back-End:** Spring Boot, APIs REST (conceitos)  
+- **Banco de Dados:** PostgreSQL  
+- **Versionamento:** Git & GitHub  
+- **Outros:** Windows, fundamentos de suporte de TI  
 
 ---
 
-## 📬 Contato
+## 📌 Projetos em Destaque
 
-- ✉️ Email: kaua83707@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/kauã-henrique-14090a322
+### ⏱️ BaterPonto
+Sistema em desenvolvimento para registro de ponto e cálculo de horas positivas e negativas.
 
+- Java
+- Lógica de negócio
+- Projeto pessoal
+
+🔗 Repositório:  
+https://github.com/Kaua19/BaterPonto-
+
+---
+
+### 🤖 Smart Recommendation System
+Sistema CRUD de produtos utilizando **Java + Spring Boot**, com integração a algoritmos de
+**Machine Learning em Python** para recomendações baseadas no histórico do usuário.
+
+- Java
+- Spring Boot
+- PostgreSQL
+- Python (ML - em desenvolvimento)
+
+🔗 Repositório:  
+https://github.com/Kaua19/smart_recommedation-system
+
+---
+
+## 🌍 Idiomas
+
+- **Inglês:** Leitura técnica (documentações, artigos, mensagens de erro)
+
+---
+
+## 📫 Contato
+
+- 📧 Email: kaua83707@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/kauã-henrique-14090a322  
+- 🐙 GitHub: https://github.com/Kaua19  
+
+---
+
+⭐ Estou aberto a oportunidades como **Desenvolvedor Java Júnior** e estágio em Back-End.
